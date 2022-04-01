@@ -1,6 +1,3 @@
-"""自动生成文本
-"""
-
 import os
 
 import numpy as np
